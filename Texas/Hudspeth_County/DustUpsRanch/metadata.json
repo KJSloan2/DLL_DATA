@@ -1,4 +1,13 @@
 {
-  "tiles": ["terrain_composite_0.csv", "terrain_composite_1.csv", "terrain_composite_2.csv", "terrain_composite_3.csv"],
+  "tiles": [
+    "terrain_composite_0.csv", 
+    "terrain_composite_1.csv", 
+    "terrain_composite_2.csv",
+    "terrain_composite_3.csv",
+    "terrain_composite_4.csv",
+    "terrain_composite_5.csv",
+    "terrain_composite_6.csv",
+    "terrain_composite_7.csv"
+    ],
   "topo_lines": "topoLines.geojson"
 }
