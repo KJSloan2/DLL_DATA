@@ -9,5 +9,6 @@
     "terrain_composite_6.csv",
     "terrain_composite_7.csv"
     ],
-  "topo_lines": "topoLines.geojson"
+  "topo_lines": "topoLines.geojson",
+  "hydrologic_dhf": "hydrologicDhf.geojson"
 }
