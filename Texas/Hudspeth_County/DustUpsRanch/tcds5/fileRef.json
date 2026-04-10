@@ -1,0 +1,10 @@
+{
+  "tiles": [
+    "tcds5_0-0.csv",
+    "tcds5_0-1.csv",
+    "tcds5_0-2.csv"
+  ],
+  "topo_lines": "topoLines.geojson",
+  "hydrologic_dhf": "hydrologicDhf.geojson",
+  "hydrologic_dsda": "hydrologicDsda.geojson"
+}
