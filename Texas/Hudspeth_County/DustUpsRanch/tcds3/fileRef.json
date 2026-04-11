@@ -1,1 +1,16 @@
-
+{
+  "tiles": [
+    "tcds3_0-0.csv",
+    "tcds3_0-1.csv",
+    "tcds3_0-2.csv",
+    "tcds3_0-3.csv",
+    "tcds3_1-0.csv",
+    "tcds3_1-1.csv",
+    "tcds3_1-2.csv",
+    "tcds3_1-3.csv"
+  ],
+  "topo_lines": "topoLines.geojson",
+  "hydrologic_dhf": "hydrologicDhf.geojson",
+  "hydrologic_dsda": "hydrologicDsda.geojson",
+  "terrain_ruggedness": "terrainTri.geojson"
+}
