@@ -1,0 +1,9 @@
+{
+  "tiles": [
+    "tcds20_FULL.csv",
+  ],
+  "topo_lines": "none",
+  "hydrologic_dhf": "none",
+  "hydrologic_dsda": "none",
+  "terrain_ruggedness": "none"
+}
