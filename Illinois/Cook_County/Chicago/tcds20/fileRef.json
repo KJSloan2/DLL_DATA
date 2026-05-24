@@ -3,8 +3,8 @@
     "tcds20_q2_0-0.csv",
     "tcds20_q2_0-1.csv"
   ],
-  "topo_lines": "none",
+  "topo_lines": "topo.geojson",
   "hydrologic_dhf": "none",
-  "hydrologic_dsda": "none",
+  "hydrologic_dsda": "hydrologicDsda_q2.geojson"",
   "terrain_ruggedness": "none"
 }
