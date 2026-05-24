@@ -5,6 +5,6 @@
   ],
   "topo_lines": "topo.geojson",
   "hydrologic_dhf": "none",
-  "hydrologic_dsda": "hydrologicDsda_q2.geojson"",
+  "hydrologic_dsda": "hydrologicDsda_q2.geojson",
   "terrain_ruggedness": "none"
 }
