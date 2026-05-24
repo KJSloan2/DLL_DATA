@@ -1,0 +1,94 @@
+{
+  "site": "ChicagoDownTown",
+  "executive_summary": "The ChicagoDownTown site exhibits a relatively flat terrain with minimal elevation change across the area. Temperatures have been generally rising over the analysis period, with an average annual increase of 0.85\u00b0F in nighttime temperatures.",
+  "terrain_structure": {
+    "summary": "Elevation ranges from approximately 174 to 187 ft, indicating a generally low-lying area with some minor undulations. The highest point is located near the intersection of the site's western and southern boundaries, at an elevation of approximately 187 ft.",
+    "metrics": {
+      "elevation_summary": [
+        {
+          "point_count": 123090,
+          "min_elevation": 174.94451904296875,
+          "max_elevation": 187.23976135253906,
+          "mean_elevation": 180.1891793625643,
+          "median_elevation": 180.61399841308594,
+          "std_elevation": 2.082441534507157
+        }
+      ],
+      "highest_points": [
+        {
+          "lat": 41.85273361206055,
+          "lon": -87.61390686035156,
+          "elv": 187.23976135253906
+        },
+        {
+          "lat": 41.85273361206055,
+          "lon": -87.61408233642578,
+          "elv": 187.08984375
+        },
+        {
+          "lat": 41.85273361206055,
+          "lon": -87.6142578125,
+          "elv": 186.90029907226562
+        },
+        {
+          "lat": 41.85273361206055,
+          "lon": -87.61372375488281,
+          "elv": 186.75926208496094
+        },
+        {
+          "lat": 41.85291290283203,
+          "lon": -87.61390686035156,
+          "elv": 186.625
+        },
+        {
+          "lat": 41.86746597290039,
+          "lon": -87.61390686035156,
+          "elv": 186.6079559326172
+        },
+        {
+          "lat": 41.85291290283203,
+          "lon": -87.61408233642578,
+          "elv": 186.56622314453125
+        },
+        {
+          "lat": 41.859920501708984,
+          "lon": -87.67660522460938,
+          "elv": 186.55810546875
+        },
+        {
+          "lat": 41.86746597290039,
+          "lon": -87.61408233642578,
+          "elv": 186.5541534423828
+        },
+        {
+          "lat": 41.859920501708984,
+          "lon": -87.67678833007812,
+          "elv": 186.52166748046875
+        }
+      ]
+    }
+  },
+  "vegetation_moisture_summary": {
+    "summary": "There is a moderate negative correlation between NDVI and NDMI across the site, suggesting that vegetation health and moisture levels may be inversely related. Over the analysis period, there has been a minor decrease in average annual NDVI (\u22120.00054) and NDMI (\u22120.00196).",
+    "metrics": [
+      {
+        "avg_ndvi_arc": -0.000539602726998984,
+        "avg_ndmi_arc": -0.00196073381773866,
+        "ndvi_ndmi_corr": 0.4735922095214162
+      }
+    ]
+  },
+  "thermal_summary": {
+    "summary": "Nighttime temperatures have been generally rising over the analysis period, but with considerable year-to-year variability (\u03c3 = 1.23\u00b0F).",
+    "metrics": [
+      {
+        "avg_lstf_arc": 0.8519269178182627,
+        "min_lstf_arc": -14.349625587463379,
+        "max_lstf_arc": 5.151949882507324,
+        "std_lstf_arc": 1.23390972125396
+      }
+    ]
+  },
+  "notable_observations": "Some areas of high NDVI (>0.7) are scattered throughout the site, suggesting that there may be isolated pockets of healthy vegetation. However, these areas are not widespread and do not appear to be consistently located near any particular terrain feature or moisture regime.",
+  "recommended_follow_up": "Further investigation is warranted to understand the relationship between NDVI and NDMI across the site, as well as to identify potential drivers of the observed changes in nighttime temperatures."
+}
