@@ -1,0 +1,115 @@
+{
+  "site": "DallasTX",
+  "executive_summary": "The analysis of the Dallas, TX area suggests a relatively flat terrain with elevations ranging from approximately 113 to 219 feet. However, there is some uncertainty due to the presence of NaN values in the vegetation and thermal metrics.",
+  "terrain_structure": {
+    "summary": {
+      "mean_elevation": 146.86,
+      "median_elevation": 143.32,
+      "std_elevation": 22.66
+    },
+    "metrics": {
+      "elevation_summary": [
+        {
+          "point_count": 10976,
+          "min_elevation": 113.32359313964844,
+          "max_elevation": 218.8331298828125,
+          "mean_elevation": 146.8553794903936,
+          "median_elevation": 143.32339477539062,
+          "std_elevation": 22.655378533090676
+        }
+      ],
+      "highest_points": [
+        {
+          "lat": 32.68183135986328,
+          "lon": -96.89590454101562,
+          "elv": 218.8331298828125
+        },
+        {
+          "lat": 32.68362808227539,
+          "lon": -96.89590454101562,
+          "elv": 218.7322998046875
+        },
+        {
+          "lat": 32.68003463745117,
+          "lon": -96.89590454101562,
+          "elv": 217.5370635986328
+        },
+        {
+          "lat": 32.68183135986328,
+          "lon": -96.89413452148438,
+          "elv": 217.51742553710938
+        },
+        {
+          "lat": 32.68362808227539,
+          "lon": -96.89413452148438,
+          "elv": 217.4746856689453
+        },
+        {
+          "lat": 32.6854248046875,
+          "lon": -96.89590454101562,
+          "elv": 217.35079956054688
+        },
+        {
+          "lat": 32.68362808227539,
+          "lon": -96.89232635498047,
+          "elv": 216.88775634765625
+        },
+        {
+          "lat": 32.68183135986328,
+          "lon": -96.89232635498047,
+          "elv": 216.50448608398438
+        },
+        {
+          "lat": 32.68362808227539,
+          "lon": -96.89054870605469,
+          "elv": 216.26097106933594
+        },
+        {
+          "lat": 32.68003463745117,
+          "lon": -96.89413452148438,
+          "elv": 216.1260223388672
+        }
+      ]
+    }
+  },
+  "vegetation_moisture_summary": {
+    "summary": "Insufficient data (NaN) to accurately assess vegetation moisture trends.",
+    "metrics": [
+      {
+        "avg_ndvi_arc": NaN,
+        "avg_ndmi_arc": NaN,
+        "ndvi_ndmi_corr": NaN
+      }
+    ]
+  },
+  "thermal_summary": {
+    "summary": "Insufficient data (NaN) to accurately assess thermal metrics.",
+    "metrics": [
+      {
+        "avg_lstf_arc": NaN,
+        "min_lstf_arc": null,
+        "max_lstf_arc": null,
+        "std_lstf_arc": NaN
+      }
+    ]
+  },
+  "notable_observations": {
+    "highest_points": [
+      {
+        "lat": 32.68183135986328,
+        "lon": -96.89590454101562,
+        "elv": 218.83
+      },
+      {
+        "lat": 32.68362808227539,
+        "lon": -96.89590454101562,
+        "elv": 218.73
+      }
+    ],
+    "elevation_range": {
+      "min_elevation": 113.32,
+      "max_elevation": 218.83
+    }
+  },
+  "recommended_follow_up": "Collect additional data to fill gaps in vegetation and thermal metrics, and to further explore terrain structure."
+}
