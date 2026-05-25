@@ -1,7 +1,11 @@
 {
   "tiles": [
     "tcds20_q2_0-0.csv",
-    "tcds20_q2_0-1.csv"
+    "tcds20_q2_0-1.csv",
+    "tcds20_q2_0-2.csv",
+    "tcds20_q2_1-1.csv",
+    "tcds20_q2_1-1.csv",
+    "tcds20_q2_1-2.csv"
   ],
   "topo_lines": "topo.geojson",
   "hydrologic_dhf": "none",
